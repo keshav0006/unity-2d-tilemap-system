@@ -28,5 +28,5 @@ Assets/
  └── Tilemaps/
 
 
-## 🚧 Status
-In progress — improving collision and level transitions.
+## Gameplay Demo:
+https://youtu.be/GxO6RnsSB0s
